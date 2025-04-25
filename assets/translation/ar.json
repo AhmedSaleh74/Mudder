@@ -1,0 +1,74 @@
+{
+  "main layout":{
+    "Home": "الرئيسية",
+    "My tasks": "مهامي",
+    "Notifications": "الإشعارات",
+    "Search": "البحث",
+    "More": "المزيد"
+  },
+
+
+  "Home": {
+    "Good morning": "صباح الخير،",
+    "work flow":{
+      "Notifications": "الإشعارات",
+      "Notification": "إشعار",
+      "Projects": "المشاريع",
+      "Goals": "الأهداف"
+    },
+    "Tasks": {
+      "View the mission": "مشاهدة المهمة"
+    },
+    "Projects": {
+      "View all projects": "عرض جميع المشاريع",
+      "Latest projects": "أحدث المشاريع",
+      "Latest": "الأحدث",
+      "Favorites": "المفضلة"
+    },
+    "Goals progress": {
+      "Goals progress": "تقدم الأهداف"
+    },
+    "My tasks": {
+      "My tasks":"مهامي",
+      "late": "متأخرة",
+      "end soon": "تنتهي قريبًا",
+      "View all my tasks": "عرض جميع مهامي"
+    },
+    "Bonus": {
+      "Complete": "مكتملة",
+      "late": "متأخرة",
+      "due": "مستحق"
+    },
+    "mentioned": {
+      "Comments that mentioned you": "تعليقات ذكرتك",
+      "reply": "عند الإشارة إليك في تعليق، يمكنك\nالرد من هنا مباشرة.",
+      "Go to Notifications": "انتقل إلى الإشعارات"
+    },
+    "Add": {
+      "project": "مشروع",
+      "Start a new project": "ابدأ مشروع جديد مع فريقك",
+      "goal": "هدف",
+      "Plan, execute": "خطّط، نفّذ، وحقق المزيد مع فريقك",
+      "member": "عضو",
+      "Invite a new member": "ادع عضو جديد لفريقك وتعاونوا معًا لتحقيق المزيد",
+      "new task": "أنشئ مهمة جديدة"
+    }
+  },
+
+  "Customize Home": {
+    "cancellation": "إلغاء",
+    "Customize Home": "تخصيص الرئيسية",
+    "save": "حفظ",
+    "needs your attention": "يحتاج انتباهك",
+    "Recently added": "أُضيف مؤخرًا",
+    "Projects": "المشاريع",
+    "Weekly project progress": "التقدم الأسبوعي لمشروع",
+    "My tasks": "مهامي",
+    "Comments that mentioned you": "تعليقات ذكرتك"
+  },
+
+  "Notifications": {
+    "Inbox" : "الإنبوكس"
+  }
+
+}

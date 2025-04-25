@@ -1,0 +1,71 @@
+{
+  "main layout": {
+    "Home": "Home",
+    "My tasks": "My tasks",
+    "Notifications": "Notifications",
+    "Search": "Search",
+    "More": "More"
+  },
+  "Home": {
+    "Good morning": "Good morning,",
+    "work flow":{
+      "Notifications": "Notifications",
+      "Notification": "Notification",
+      "Projects": "Projects",
+      "Goals": "Goals"
+    },
+    "Tasks": {
+      "View the mission": "View the mission"
+    },
+    "Projects": {
+      "View all projects": "View all projects",
+      "Latest projects": "Latest projects",
+      "Latest": "Latest",
+      "Favorites": "Favorites"
+    },
+    "Goals progress": {
+      "Goals progress": "Goals progress"
+    },
+    "My tasks": {
+      "My tasks":"My tasks",
+      "late": "late",
+      "end soon": "end soon",
+      "View all my tasks": "View all my tasks"
+    },
+    "Bonus": {
+      "Complete": "Complete",
+      "late": "late",
+      "due": "due"
+    },
+    "mentioned": {
+      "Comments that mentioned you": "Comments that mentioned you",
+      "reply": "When you are mentioned in a comment, you can\nreply directly here.",
+      "Go to Notifications": "Go to Notifications"
+    },
+    "Add": {
+      "project": "project",
+      "Start a new project": "Start a new project with your team",
+      "goal": "goal",
+      "Plan, execute": "Plan, execute, and achieve more with your team.",
+      "member": "member",
+      "Invite a new member": "Invite a new member to your team and work together to achieve more.",
+      "new task": "Create a new task"
+    }
+  },
+  "Customize Home": {
+    "cancellation": "cancellation",
+    "Customize Home": "Customize Home",
+    "save": "save",
+    "needs your attention": "needs your attention",
+    "Recently added": "Recently added",
+    "Projects": "Projects",
+    "Weekly project progress": "Weekly project progress",
+    "My tasks": "My tasks",
+    "Comments that mentioned you": "Comments that mentioned you"
+  },
+
+  "Notifications": {
+    "Inbox" : "Inbox"
+  }
+
+}

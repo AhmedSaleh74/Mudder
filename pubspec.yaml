@@ -1,0 +1,65 @@
+name: mudeer
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.8
+  # A library for adapting the design layout to different screen sizes and resolutions, allowing the use of units like px, dp, pt.
+  flutter_screenutil: ^5.9.3
+  # A library for managing application state using the BLoC (Business Logic Component) pattern in Flutter.
+  flutter_bloc: ^9.0.0
+  # A library for handling localization and supporting multiple languages in Flutter apps.
+  easy_localization: ^3.0.7+1
+  # A library that allows you to render SVG (Scalable Vector Graphics) images in Flutter applications.
+  flutter_svg: ^2.0.17
+  # A library to provide a smooth page indicator (like circular dots) that shows the interaction with pages or scrollable content.
+  smooth_page_indicator: ^1.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+  flutter_lints: ^5.0.0
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/translation/
+    - assets/icons/
+    - assets/icons/main_layout/
+    - assets/icons/workflow/
+    - assets/icons/home_top_bar/
+    - assets/icons/projects/
+    - assets/icons/tasks/
+    - assets/images/
+    - assets/icons/notification/
+    - assets/images/notification/
+
+  fonts:
+    - family: IBMPlexSansArabic
+      fonts:
+        - asset: assets/fonts/imp_plex/IBMPlexSansArabic-Medium.ttf
+    - family: GraphikArabic
+      fonts:
+        - asset: assets/fonts/graphik_arabic/GraphikArabic-Regular.ttf
+        - asset: assets/fonts/graphik_arabic/GraphikArabic-Medium.ttf
+        - asset: assets/fonts/graphik_arabic/GraphikArabic-Semibold.ttf
+        - asset: assets/fonts/graphik_arabic/GraphikArabic-Bold.ttf
